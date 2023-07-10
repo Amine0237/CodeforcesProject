@@ -12,7 +12,7 @@ public class BinaryCafe { // the link of the problem in codeforces: https://code
 
         for (int i=0; i<t; i++){
             n = scanner.nextInt();
-            k = scanner.nextInt();
+            k = scanner.nextInt(); //test
             out+=(int)Math.min(n+1, Math.pow(2, k))+"\n";
         }
         System.out.println(out);
