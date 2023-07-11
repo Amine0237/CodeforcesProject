@@ -2,7 +2,7 @@ package June2023;
 
 import java.util.Scanner;
 
-public class BinaryCafe { // the link of the problem in codeforces: https://codeforces.com/contest/1840/problem/B
+public class BinaryCafe {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

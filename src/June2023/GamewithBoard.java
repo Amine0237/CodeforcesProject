@@ -2,7 +2,7 @@ package June2023;
 
 import java.util.Scanner;
 
-public class GamewithBoard { // the link of the problem in codeforces: https://codeforces.com/contest/1841/problem/A
+public class GamewithBoard {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int t = Integer.parseInt(scanner.nextLine());

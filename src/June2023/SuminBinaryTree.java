@@ -2,7 +2,7 @@ package June2023;
 
 import java.util.Scanner;
 
-public class SuminBinaryTree { // the link of the problem in codeforces: https://codeforces.com/contest/1843/problem/C
+public class SuminBinaryTree {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String finalOut="";
